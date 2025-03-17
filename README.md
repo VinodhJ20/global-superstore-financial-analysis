@@ -22,7 +22,7 @@ In this project, I conducted an end-to-end exploratory data analysis (EDA) of th
 
 ## 📄 Deliverables:
 - 📑 [Download PDF Report](./Global_Superstore_Project_Report.pdf)
-- 📓 [Jupyter Notebook (./global_superstore_financial_analysis.ipynb)]
+- 📓 [Jupyter Notebook](./global_superstore_financial_analysis.ipynb)
 
 ## 💡 Business Recommendations:
 - Optimize operations in regions with high return rates.
